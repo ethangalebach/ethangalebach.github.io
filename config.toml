@@ -1,4 +1,3 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Ethan Galebach'
 theme = "gohugo-theme-ananke"
