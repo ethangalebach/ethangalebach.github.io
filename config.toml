@@ -1,4 +1,4 @@
-baseURL: "http://www.ethangalebach.com"
+baseURL: "https://www.ethangalebach.com"
 languageCode = 'en-us'
 title = 'Ethan Galebach'
 theme = "gohugo-theme-ananke"
