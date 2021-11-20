@@ -12,3 +12,5 @@ Through my professional experience I have become proficient with visualization, 
 When I am feeling technically curious outside of work, I like to play around with web app frameworks like Django, Flask, and Express, as well as languages like JavaScript, Rust, and Go.
 
 In my free time, I like to do pottery, read history, stay civically engaged, play basketball, and explore new parts of the Bay Area.
+
+Email: ethan.galebach@gmail.com
