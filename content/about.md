@@ -13,6 +13,6 @@ When I am feeling technically curious outside of work, I like to play around wit
 
 In my free time, I like to do pottery, read history, stay civically engaged, play basketball, and explore new parts of the Bay Area.
 
-Please feel free reach out: 
+Please feel free to reach out: 
 
 ethan.galebach at gmail dot com
