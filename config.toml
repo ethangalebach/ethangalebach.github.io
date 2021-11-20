@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ethan Galebach'
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[params]
+  mainSections = ["projects"]
+  featured_image = "/images/rowhomes.jpeg"
+  custom_css = ["custom.css"]
+  github = "https://github.com/ethangalebach"
+  linkedin = "https://www.linkedin.com/in/ethan-galebach"
+
+  [markup]
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true
