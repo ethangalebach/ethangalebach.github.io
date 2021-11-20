@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2021-11-19T11:24:22-08:00
 layout: "summary"
-draft: true
+draft: false
 ---
 
 Based in Oakland, California, I work as an actuarial analyst for the California Teachers' Association's (CTA's) auto and home insurer, California Casualty. 
