@@ -1,3 +1,4 @@
+baseURL: "http://www.ethangalebach.com"
 languageCode = 'en-us'
 title = 'Ethan Galebach'
 theme = "gohugo-theme-ananke"
